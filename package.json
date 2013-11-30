@@ -1,0 +1,20 @@
+{
+  "name": "beforeDeploy",
+  "description": "check list before deploying page",
+  "version": "0.0.1",
+  "homepage": "https://github.com/airyland/seedit",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airyland/seedit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/airyland/seedit/issues"
+  },
+  "family": "seedit",
+  "spm": {
+    "alias": {},
+    "output": [
+      "beforeDeploy.css"
+    ]
+  }
+}
